@@ -1,14 +1,14 @@
 {
-    "name": "alchemy/zippy",
+    "name": "Tugca/zippy",
     "type": "library",
     "description": "Zippy, the archive manager companion",
     "keywords": ["zip", "tar", "bzip", "compression"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alchemy",
-            "email": "dev.team@alchemy.fr",
-            "homepage": "http://www.alchemy.fr/"
+            "name": "Tugca Eker",
+            "email": "tugcaeker@gmail.com",
+            "homepage": "http://www.tugca.com/"
         }
     ],
     "require": {
